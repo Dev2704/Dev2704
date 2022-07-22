@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Dev2704
 - 👀 I’m interested in Coding
-- 🌱 I’m currently learning JavaScript
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently learning Python
+- 💞️ I’m looking to collaborate on some projects
+- 📫 How to reach me sakalleydev27@gmail.com
 
 <!---
 Dev2704/Dev2704 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
