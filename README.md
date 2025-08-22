@@ -1,10 +1,36 @@
-- 👋 Hi, I’m @Dev2704
-- 👀 I’m interested in Coding
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on some projects
-- 📫 How to reach me sakalleydev27@gmail.com
+# Hi there, I'm Dev! 👋
 
-<!---
-Dev2704/Dev2704 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🎓 **Student at IIST Indore**  
+💻 **Tech Enthusiast | Problem Solver | Java Fan**
+
+---
+
+## 🚀 About Me
+
+I’ve loved tech ever since I was a kid, and that passion continues to drive me today. Whether it’s cracking tough problems, building cool projects, or exploring new tech trends, I'm always up for a challenge.
+
+---
+
+## 🛠️ Top Skills
+
+- Always Learning
+- **JAVA**
+- Linux Terminals
+
+---
+
+## ⚽ More About Me
+
+- Football lover and sports enthusiast
+- I enjoy making music in my free time
+- Always keen to learn and grow through programming
+
+---
+
+## 🤝 Let's Collaborate!
+
+I'm always down to contribute to your projects while learning along the way!  
+Feel free to connect or reach out if you have something cool to build together.
+
+---
+> “I loved tech from when I was kid and I still do.”
